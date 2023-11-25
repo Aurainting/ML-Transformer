@@ -2,7 +2,7 @@
 
 mlpack-based Transformer 
 
-- [y] Forward
+- [x] Forward
 - [ ] Backward
 
 # Usage
