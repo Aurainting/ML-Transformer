@@ -1,6 +1,7 @@
 # Introduction
 
 mlpack-based Transformer 
+![Architecture Figure](architecture.drawio.png)
 
 - [x] Forward
 - [ ] Backward
