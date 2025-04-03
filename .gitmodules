@@ -1,0 +1,9 @@
+[submodule "3rdparty/armadillo"]
+	path = 3rdparty/armadillo
+	url = https://gitlab.com/conradsnicta/armadillo-code.git
+[submodule "3rdparty/ensmallen"]
+	path = 3rdparty/ensmallen
+	url = https://github.com/mlpack/ensmallen.git
+[submodule "3rdparty/doctest"]
+	path = 3rdparty/doctest
+	url = https://github.com/doctest/doctest.git

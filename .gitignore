@@ -1,0 +1,12 @@
+# VSCode
+.vscode/
+.cache/
+build/
+
+# CLion
+.idea/
+cmake-build-*
+
+# General
+dataset/
+bin/
