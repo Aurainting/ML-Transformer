@@ -15,4 +15,4 @@ target_include_directories(${PROJECT_NAME} PRIVATE "${Armadillo_DIR}/include")
 target_include_directories(${PROJECT_NAME} PRIVATE "${Ensmallen_DIR}/include")
 target_include_directories(${PROJECT_NAME} PRIVATE "${CMAKE_SOURCE_DIR}/include")
 
-target_link_libraries(${PROJECT_NAME} PRIVATE ${BLAS_LIBRARIES} armadillo)
+target_link_libraries(${PROJECT_NAME} PRIVATE ${BLAS_LIBRARIES})
