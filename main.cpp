@@ -1,3 +1,6 @@
 #include <iostream>
 
-int main() { std::cout << "Hello, transformer!" << std::endl; }
+int main() {
+  const auto x = 1;
+  std::cout << "Hello, transformer!" << std::endl;
+}
